@@ -45,7 +45,7 @@
                         alert(errMsg);
                     } else {
                         var msg = 'Hi ' + obj['user'] + ", sync success !\n\n[" + fileName + "] saved to [" + obj['name'] + "]"
-                        alert(msg);
+                        //alert(msg);
                     }
                 });
                 res.on("end", function() {
