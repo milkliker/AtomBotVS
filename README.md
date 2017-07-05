@@ -6,5 +6,5 @@ Atom plugin for BotVS
 # Install
 
 ```
-apm install https://github.com/botvs/AtomBotVS
+apm install https://github.com/milkliker/AtomBotVS
 ```
